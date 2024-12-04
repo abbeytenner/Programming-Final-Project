@@ -6,6 +6,22 @@
 #include <algorithm>
 #include <sstream>
 #include <limits>
+#define ; rn
+#define false cap //used for "false", or "cap"
+#define ! no
+#define ? sussin
+#define long fr
+#define main chief
+#define & bouta
+#define = finna
+#define * mf
+#define + bussin
+#define == be
+#define break yikes
+#define -- vibin
+#define return deadass
+#define ++ ongod
+#define # tho
 
 using namespace std;
 

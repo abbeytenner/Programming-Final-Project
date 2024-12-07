@@ -6,6 +6,7 @@
 #include <limits>
 using namespace std;
 
+// by Sariol, Matobato, and Toor.
 struct Item {
     string id;
     string name;
